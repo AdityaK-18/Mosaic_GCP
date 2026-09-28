@@ -1,6 +1,9 @@
 # macOS
 .DS_Store
 
+# local notes with commands/credentials, not for commit
+gcp_commands.md
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
