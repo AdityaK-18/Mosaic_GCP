@@ -1,8 +1,8 @@
 # macOS
 .DS_Store
 
-# local notes with commands/credentials, not for commit
-gcp_commands.md
+# local markdown notes, not for commit
+*.md
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
